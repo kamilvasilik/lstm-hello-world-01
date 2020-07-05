@@ -1,4 +1,4 @@
-# lstm-hello-world-01
+# time-series-prediction-hello-world-01
 Time Series Prediction - LSTM 'Hello World'
 
 ### 'lstm_hello_world_01.ipynb'
