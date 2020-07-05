@@ -1,5 +1,6 @@
 # time-series-prediction-hello-world-01
-Time Series Prediction - LSTM 'Hello World'
+Time Series Prediction - 'Hello World'
+LSTM, Decision Tree
 
 ### 'lstm_hello_world_01.ipynb'
 - predicting next couple numbers of time series with ascending order using LSTM
